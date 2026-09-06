@@ -23,9 +23,11 @@ It bridges **Computer Vision and NLP** by converting visual information into hum
 ```text
 Image → Preprocessing → InceptionV3 → Feature Extraction
       → Word Embedding → LSTM → Caption Generation → BLEU Evaluation
+## ⚡ Quick Start
+```
+## ⚙️ Installation
 
-⚙️ Installation
+```bash
 pip install tensorflow keras numpy pandas matplotlib pillow
-
-▶️ Run
 jupyter notebook Vision2Text.ipynb
+```
