@@ -23,7 +23,8 @@ It bridges **Computer Vision and NLP** by converting visual information into hum
 ```text
 Image → Preprocessing → InceptionV3 → Feature Extraction
       → Word Embedding → LSTM → Caption Generation → BLEU Evaluation
-## ⚡ Quick Start
+
+
 ```
 ## ⚙️ Installation
 
